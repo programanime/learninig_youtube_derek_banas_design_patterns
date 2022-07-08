@@ -1,0 +1,157 @@
+1	
+Course 
+
+URL
+
+Time
+
+2	
+C# Fundamentals
+
+https://app.pluralsight.com/paths/skill/csharp
+
+16h (beginner)
+
+3	
+C# Fundamentals
+
+https://app.pluralsight.com/paths/skill/csharp
+
+12h (intermediate)
+
+4	
+C# Fundamentals
+
+https://app.pluralsight.com/paths/skill/csharp
+
+17h (advanced)
+
+5	
+IIS
+
+https://app.pluralsight.com/library/courses/using-iis-developer/table-of-contents 
+
+1h 36min
+
+6	
+MS SQL Server
+
+https://app.pluralsight.com/library/courses/sql-server-2012-querying-pt1/table-of-contents
+    
+
+5h
+
+7	
+Aspose
+
+https://app.pluralsight.com/library/courses/asposedotwords-dotnet-creating-dynamic-documents/table-of-contents
+
+1h 54 min
+
+8	
+WPF
+
+https://app.pluralsight.com/library/courses/wpf-mvvm-in-depth/table-of-contents 
+
+3h
+
+ 
+
+9	
+Web/API Development
+
+https://app.pluralsight.com/library/courses/designing-restful-web-apis/table-of-contents
+
+2h
+
+10	
+Dependency Injection
+
+https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection/table-of-contents
+
+2h
+
+11	
+XML Fundamentals
+
+https://app.pluralsight.com/library/courses/xml-fund/table-of-contents
+
+4h 50 min
+
+12	
+InstallShield
+
+Insight University (?)
+
+https://docs.revenera.com/installshield24helplib/installshield24helplib.htm
+
+ 
+
+13	
+Common design patterns: Factory and Abstract Factory
+
+ 
+
+https://app.pluralsight.com/library/courses/c-sharp-design-patterns-factory-abstract/table-of-contents
+
+3h
+
+14	
+Common design patterns: Singleton
+
+https://app.pluralsight.com/library/courses/c-sharp-design-patterns-singleton/table-of-contents
+
+30m
+
+15	
+Common design patterns:
+
+Visitor
+
+https://app.pluralsight.com/library/courses/c-sharp-design-patterns-visitor/table-of-contents
+
+30m
+
+16	
+Working with Open XML SDK
+
+https://app.pluralsight.com/library/courses/introduction-microsoft-office-open-xml/table-of-contents
+
+3h 44 min
+
+17	
+Common design patterns:
+
+Decorator
+
+https://app.pluralsight.com/library/courses/c-sharp-design-patterns-decorator/table-of-contents
+
+30m
+
+18	
+NHibernate
+
+https://www.tutorialspoint.com/nhibernate/index.htm
+
+ 
+
+19	
+Log4Net
+
+https://app.pluralsight.com/library/courses/application-instrumentation-log4net/table-of-contents
+
+4h
+
+20	
+Agile Fundamentals
+
+https://app.pluralsight.com/library/courses/agile-fundamentals/table-of-contents
+
+3h
+
+21	
+Backend For Frontend
+
+https://samnewman.io/patterns/architectural/bff/
+
+1h
